@@ -1,0 +1,19 @@
+AAct 是一款由俄国高手 Ratiborus 制作的用于激活 Windows 和 Office VL 版本的 KMS 程序。
+
+该程序不需要任何版本的 .NET Framework 支持，可激活 Windows Vista、Windows 7、Windows 8/8.1、Windows 10、Server 2008/2008 R2、2012/2012 R2、Office 2010/2013/2016 VL 版本。此外，您还可在 Windows XP 上激活 Office 2010 VL 版本。
+
+额外的启动参数（键）：
+/win=act - 在隐藏模式下运行程序，激活 Windows 并退出程序。
+/ofs=act - 在隐藏模式下运行程序，激活 Office 并退出程序。
+/wingvlk - 在隐藏模式下运行程序，安装 Windows 密钥并退出程序。
+/ofsgvlk - 在隐藏模式下运行程序，安装 Office 密钥并退出程序。
+/taskwin - 创建 Windows 重新激活任务
+/taskofs - 创建 Office 重新激活任务
+
+v3.7 版本更新：2017年10月12日
+- 程序代码的小更改
+- 添加了 TAP 适配器
+
+此汉化便携版由 th_sjy 汉化分享
+
+注意：此类激活工具的行为都会导致杀软报毒，只有将其添加到杀软的排除列表才能正常使用。
